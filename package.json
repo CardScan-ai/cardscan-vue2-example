@@ -17,7 +17,7 @@
   "dependencies": {
     "@cardscan.ai/insurance-cardscan-react": "^3.0.26",
     "@vitejs/plugin-vue2": "^2.3.1",
-    "vue": "^2.7.16",
+    "vue": "^3.0.0",
     "vuera": "^0.2.7"
   }
 }
